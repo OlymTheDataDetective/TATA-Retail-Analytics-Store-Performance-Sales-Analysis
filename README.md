@@ -1,19 +1,18 @@
 # Tata Data Visualisation - Empowering Business with Effective Insights on Forage - November-2025
 
 **Tags:**  
-`Data Analytics` `Power BI` `Business Intelligence`  
-`Customer Behaviour` `Dashboard` `Excel`   
-`Data Cleaning` `Data Visualization` `Retail Analytics`
+`Data Analytics` `Power BI` `SQL` `Business Intelligence` `Customer Behaviour` `Dashboard` `Excel` `Data Cleaning` `Data Visualization` `Retail Analytics`
 
+<img width="891" height="501" alt="Image" src="https://github.com/user-attachments/assets/e38f6c5d-2be4-4187-9ca6-8d0a02bff541" />
 
 ##📌 Project Overview
 
 This project is based on the Online Retail Dataset, completed as part of the TCS Data Analytics Job Simulation on Forage.
 The objective was to analyze customer purchasing behavior, product analytics and deliver insights that support business decision-making for the CEO and CMO.
 
-🛠 Tools & Technologies
 
-Power BI, SQL & Excel
+#🛠 Tools & Technologies: Power BI, SQL & Excel
+
 
 🎯 Project Goals
 
