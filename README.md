@@ -1,20 +1,20 @@
-# Tata Data Visualisation - Empowering Business with Effective Insights on Forage - November-2025
+# Online Retail Customer Behaviour Analysis - TCS Forage - November-2025
 
-**Tags:**  
-`Data Analytics` `Power BI` `SQL` `Business Intelligence` `Customer Behaviour` `Dashboard` `Excel` `Data Cleaning` `Data Visualization` `Retail Analytics`
+ `Data Analytics` `Power BI` `SQL` `Business Intelligence` `Customer Behaviour` `Dashboard` `Excel` `Data Cleaning` 
+ `Data Visualization` `Retail Analytics`
 
 <img width="891" height="501" alt="Image" src="https://github.com/user-attachments/assets/e38f6c5d-2be4-4187-9ca6-8d0a02bff541" />
 
-##📌 Project Overview
+**📌 Project Overview**
 
-This project is based on the Online Retail Dataset, completed as part of the TCS Data Analytics Job Simulation on Forage.
-The objective was to analyze customer purchasing behavior, product analytics and deliver insights that support business decision-making for the CEO and CMO.
-
-
-#🛠 Tools & Technologies: Power BI, SQL & Excel
+This project was completed as part of the TCS Data Analytics Job Simulation on Forage, based on the Online Retail dataset. 
+The goal was to generate meaningful business insights for leadership stakeholders such as the CEO and CMO through data cleaning, analytics and dashboard development in Power BI
 
 
-🎯 Project Goals
+**🛠 Tools & Technologies: Power BI, SQL & Excel**
+
+
+**🎯 Project Goals**
 
 Understand customer purchasing patterns
 
@@ -24,33 +24,11 @@ Analyze product demand
 
 Generate insights to help improve revenue and engagement
 
-🧠 Key Analyses Performed
 
-1️⃣ Data Cleaning
-
-Handled null and missing values
-
-Standardized data types and removed duplicates
-
-Replaced noisy rows of "Description" column through JOINS in Power Query 
-
-Created calculated fields such as: Revenue = Quantity × UnitPrice
-
-Monthly and Hourly time breakdowns of Invoice_Date and First_Purchase_Date
-
-2️⃣ Exploratory Data Analysis (EDA)
-
-Insights included:
-
-Top 10 Best-selling products
-
-Top 10 revenue-generating customers
-
-Monthly time-series Revenue analysis
 
 Distribution of quantity bought and revenue patterns
 
-3️⃣ Customer and Products Behaviour Insights
+**3️⃣ Customer and Products Behaviour Insights**
 
 Some valuable outcomes:
 
@@ -62,24 +40,61 @@ What products drive maximum profit?
 
 Time-based trends showing peak purchasing periods
 
-📊 Visualizations & Dashboards
+**🎯 Business Questions & Insights Delivered**
 
-Created interactive Power BI dashboards showcasing:
+**Question 1 – CEO's Requirement**
 
-Sales by Country
+Objective: Analyze revenue trends across the year 2011, broken down by month to identify seasonality and support forecasting.
+<img width="442" height="164" alt="Image" src="https://github.com/user-attachments/assets/75b37030-5bbf-401e-a738-040b086eb32e" />
+Solution Delivered:
 
-Top 10 Customers
+A time series visualization displaying monthly revenue for 2011
 
-Revenue Trends by Month
+Trend analysis to observe peaks, slow months and recurring seasonal patterns
 
-Most Purchased Products
+Helps the CEO forecast future demand and budget planning
 
-Customer Segmentation
+Question 2 – CMO Requirement
 
-KPI cards such as:
+Objective:
+Display the Top 10 highest revenue-generating countries, excluding the United Kingdom, along with their quantity sold.
 
-Total Revenue
+Solution Delivered:
 
-Number of Customers
+A comparative bar chart ranking the top countries (excluding UK)
 
-Total Items Sold
+Combined display of:
+
+Total revenue
+
+Total quantity sold
+
+Helps identify high-value international markets
+
+Question 3 – Customer Value Analysis (CMO)
+
+Objective:
+Identify the Top 10 customers by revenue, sorted in descending order, to support targeted engagement and retention of top spenders.
+
+Solution Delivered:
+
+A chart showing the highest revenue-generating customer on the left scaling downwards
+
+Helps:
+
+Target high-value customers
+
+Improve retention and relationship strategies
+
+Question 4 – CEO Requirement
+
+Objective:
+Identify which countries (excluding UK) have the highest product demand, to evaluate potential expansion markets.
+
+Solution Delivered:
+
+A single, consolidated visual ranking product demand by country
+
+No scrolling or tooltip needed — all data visible at a glance
+
+Enables the CEO to make faster market expansion decisions
